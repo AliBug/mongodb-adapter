@@ -1,4 +1,5 @@
-module github.com/casbin/mongodb-adapter/v3
+// module github.com/casbin/mongodb-adapter/v3
+module github.com/alibug/mongodb-adapter/v3
 
 go 1.13
 
